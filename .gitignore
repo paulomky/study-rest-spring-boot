@@ -4,6 +4,8 @@
 /.springBeans
 /.project
 
+.idea
+
 /.settings/
 /.gradle/
 /build/
